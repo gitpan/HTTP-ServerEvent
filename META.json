@@ -38,5 +38,10 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "repository" : {
+         "url" : "https://github.com/Corion/http-serverevent"
+      }
+   },
+   "version" : "0.02"
 }

@@ -20,4 +20,6 @@ no_index:
 requires:
   Carp: 0
   Test::More: 0
-version: 0.01
+resources:
+  repository: https://github.com/Corion/http-serverevent
+version: 0.02
